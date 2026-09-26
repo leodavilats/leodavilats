@@ -1,16 +1,17 @@
-## Hi there 👋
+## Leonardo D'avila
 
-<!--
-**leodavilats/leodavilats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenharia de Controle e Automação na UFMG.
 
-Here are some ideas to get you started:
+### Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projeto | O que é | Stack |
+|---|---|---|
+| [fiance](https://github.com/leodavilats/fiance) | Análise de investimentos na B3: carteira, apuração de IR, fluxo de caixa e faixa de preço justo | FastAPI, PostgreSQL, Flutter |
+| [domusgame](https://github.com/leodavilats/domusgame) | Desafios semanais com quiz, pontuação por acerto e rapidez, e ranking por temporada | ASP.NET Core 10, PostgreSQL, React |
+| [tennis-game](https://github.com/leodavilats/tennis-game) | Multitênis: tênis para dois jogadores com várias bolas ao mesmo tempo | C, Allegro 5 |
+| [snack-machine](https://github.com/leodavilats/snack-machine) | Máquina de salgadinho com controladora e caminho de dados | VHDL |
+
+### Ferramentas
+
+Python · FastAPI · C# · ASP.NET Core · Dart · Flutter · TypeScript · React · PostgreSQL · Docker ·
+C · VHDL
