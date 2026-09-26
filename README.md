@@ -3,8 +3,7 @@
 Desenvolvedor de Software Fullstack na [dti digital](https://www.dtidigital.com.br/) e estudante de
 Engenharia de Controle e Automação na UFMG.
 
-Construo sistemas web, APIs e apps mobile, do banco de dados à tela. Aceito conversas sobre vagas e
-sobre projetos.
+Construo sistemas web, APIs e apps mobile, do banco de dados à tela.
 
 **Contato:** [LinkedIn](https://www.linkedin.com/in/leonardo-d-avila-371275240/) ·
 [leonardodavilts@gmail.com](mailto:leonardodavilts@gmail.com)
